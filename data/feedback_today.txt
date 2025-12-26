@@ -1,0 +1,3 @@
+2025-12-25 09:15|CUST101|The service was excellent and staff was helpful
+2025-12-25 10:20|CUST102|Delivery was late and very poor experience
+2025-12-25 11:05|CUST103|Billing issue, I was charged twice

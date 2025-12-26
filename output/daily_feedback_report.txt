@@ -1,0 +1,20 @@
+DAILY FEEDBACK REPORT
+==============================
+
+Sentiment Summary:
+Positive: 3
+Negative: 4
+Neutral: 2
+
+Most Common Complaint:
+Service Issue
+
+Sample Negative Feedback:
+- Delivery was late and very poor experience
+- Billing issue, I was charged twice
+- Still facing delay in delivery
+
+System Suggestions:
+- Improve response time
+- Enhance service quality
+- Monitor repeated complaints
